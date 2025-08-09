@@ -1,5 +1,4 @@
-
-[![Moe Counter]([https://count.getloli.com/get/@KouriChat?theme=moebooru](https://count.getloli.com/@notblacknotcrow?name=notblacknotcrow&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto))]([https://github.com/KouriChat/KouriChat](https://github.com/SiyuanLi-Sven))
+[![Moe Counter](https://count.getloli.com/@notblacknotcrow?name=notblacknotcrow&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/SiyuanLi-Sven)
 <!--
 **SiyuanLi-Sven/SiyuanLi-Sven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
